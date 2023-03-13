@@ -225,7 +225,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
